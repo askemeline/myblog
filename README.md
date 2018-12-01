@@ -1,6 +1,6 @@
-## myblog
+# myblog
 
 Blog with markdown. All people can see all article, only superuser can create article.
 
-# Installation
+## Installation
 pip install -r ./requirements.txt;
